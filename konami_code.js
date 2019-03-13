@@ -21,6 +21,7 @@ function init() {
         index = 0;
       }
     } else {
+      alert(`Sorry!`);
       index = 0;
     }
   }
